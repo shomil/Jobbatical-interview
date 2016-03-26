@@ -1,0 +1,15 @@
+{
+  "name": "shomiljobbatical",
+  "version": "1.0.0",
+  "description": "Strictly for API demo to Jobbatical",
+  "main": "shserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shomil.sh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "mysql": "^2.10.2"
+  }
+}
